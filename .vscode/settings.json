@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "push_swap.h": "c",
+        "chrono": "c",
+        "random": "c",
+        "limits": "c",
+        "algorithm": "c"
+    },
+    "cmake.sourceDirectory": "/workspaces/codespaces-blank/push_swap_new_old/push_swap_visualizer-master"
+}
